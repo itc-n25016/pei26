@@ -2,12 +2,16 @@
 
 Python Exam I（2026）の授業で使用するプログラムを管理するためのリポジトリです。
 
+## 命令規則について
+例：模擬問題1の問2（8）は→m1_q2_08.py
+例：模擬問題1の問2（8）の課題→m1_q2_08_kadai.py
+
 ## 環境
 
 * Python 3.14.4
 * uv 0.12.22
 * Linux
-* Visual Studio Code
+* Visual Studio Code 1.121.0
 
 ## プロジェクト構成
 
