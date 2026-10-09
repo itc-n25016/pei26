@@ -1,7 +1,7 @@
 a = 12
 b = 5
 print(b - a)
-print(-7)
+print(abs(-7))
 print("{0:08b}".format(64))
 c = [2, 7, 15, 12, 9]
 c.sort(reverse=True)
