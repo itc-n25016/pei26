@@ -1,0 +1,12 @@
+a = 12
+b = 5
+print(b - a) 
+print(-7) 
+print("{0:08b}".format(64))
+
+c = [2, 7, 15, 12, 9]
+c.sort(reverse=True)
+print(c)
+print(c[2:3]) 
+
+print(f'{(a - b) / c[3]:->8.3f}')
