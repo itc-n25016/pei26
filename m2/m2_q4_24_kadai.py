@@ -9,3 +9,8 @@ y = func(3, 4)
 a = func(-5, -6)
 z = [bool(x), bool(y), bool(a)] 
 print(z)
+
+'''bool関数について
+bool()は値をTrueまたはFalseに変換する関数
+0はFalse,それ以外の数値はTrueになる
+'''
